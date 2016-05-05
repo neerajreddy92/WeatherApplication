@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\Documents\\MC-Project-Main\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forecast.xml",
+        "source": "C:\\Users\\ADMIN\\Documents\\MC-Project-Main\\app\\src\\main\\res\\menu\\forecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Documents\\MC-Project-Main\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\ADMIN\\Documents\\MC-Project-Main\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Documents\\MC-Project-Main\\app\\build\\intermediates\\res\\merged\\debug\\menu\\info.xml",
+        "source": "C:\\Users\\ADMIN\\Documents\\MC-Project-Main\\app\\src\\main\\res\\menu\\info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Documents\\MC-Project-Main\\app\\build\\intermediates\\res\\merged\\debug\\menu\\infofragment.xml",
+        "source": "C:\\Users\\ADMIN\\Documents\\MC-Project-Main\\app\\src\\main\\res\\menu\\infofragment.xml"
+    }
+]
